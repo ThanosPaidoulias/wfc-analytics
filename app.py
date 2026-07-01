@@ -1848,7 +1848,7 @@ def main():
     if "view" not in st.session_state:
         st.session_state["view"] = "landing"
     if "loaded_comps" not in st.session_state:
-        st.session_state["loaded_comps"] = ALL_COMPETITIONS.copy()
+        st.session_state["loaded_comps"] = ["WSL"]
 
     matches = safe_load()
 
