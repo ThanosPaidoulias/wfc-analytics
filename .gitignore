@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.DS_Store
+footperf_env/
+__pycache__/
+*.pyc
+.DS_Store
+footperf_env/

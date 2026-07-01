@@ -1,0 +1,505 @@
+match_id,competition,match_date,match_week,home_team,away_team,home_score,away_score
+3913082,WSL,2023-11-05,5,Brighton & Hove Albion WFC,Manchester United W,2,2
+3913155,WSL,2024-03-23,17,Manchester City WFC,Manchester United W,3,1
+3913167,WSL,2024-04-21,19,Manchester United W,Tottenham Hotspur Women,2,2
+3913175,WSL,2024-04-28,20,Aston Villa W,West Ham United LFC,1,1
+3913107,WSL,2023-12-09,9,Manchester City WFC,Aston Villa W,2,1
+3913165,WSL,2024-04-17,19,Chelsea FCW,Aston Villa W,3,0
+3913115,WSL,2023-12-17,10,Aston Villa W,Brighton & Hove Albion WFC,1,0
+3913147,WSL,2024-03-16,16,Everton LFC,Aston Villa W,1,2
+3913129,WSL,2024-02-03,13,Aston Villa W,Bristol City WFC,2,2
+3912603,WSL,2023-10-08,2,Liverpool WFC,Aston Villa W,2,0
+3913134,WSL,2024-02-04,13,Chelsea FCW,Everton LFC,3,0
+3913069,WSL,2023-10-14,3,Chelsea FCW,West Ham United LFC,2,0
+3912599,WSL,2023-10-08,2,Brighton & Hove Albion WFC,West Ham United LFC,0,2
+3913131,WSL,2024-02-04,13,Liverpool WFC,Tottenham Hotspur Women,1,1
+3913137,WSL,2024-02-18,14,Brighton & Hove Albion WFC,Liverpool WFC,0,1
+3913174,WSL,2024-04-28,20,Bristol City WFC,Manchester City WFC,0,4
+3913186,WSL,2024-05-18,22,Leicester City WFC,Liverpool WFC,0,4
+3913185,WSL,2024-05-18,22,Arsenal WFC,Brighton & Hove Albion WFC,5,0
+3913180,WSL,2024-05-05,21,Chelsea FCW,Bristol City WFC,8,0
+3913181,WSL,2024-05-04,21,Everton LFC,Tottenham Hotspur Women,2,2
+3913171,WSL,2024-04-28,20,Leicester City WFC,Manchester United W,0,1
+3913168,WSL,2024-04-21,19,Manchester City WFC,West Ham United LFC,5,0
+3913169,WSL,2024-04-21,19,Arsenal WFC,Leicester City WFC,3,0
+3913182,WSL,2024-05-04,21,Brighton & Hove Albion WFC,Aston Villa W,0,1
+3913173,WSL,2024-05-01,20,Liverpool WFC,Chelsea FCW,4,3
+3913166,WSL,2024-04-19,19,Brighton & Hove Albion WFC,Everton LFC,1,2
+3913157,WSL,2024-03-24,17,Leicester City WFC,Brighton & Hove Albion WFC,2,3
+3913161,WSL,2024-03-31,18,Manchester United W,Everton LFC,4,1
+3913162,WSL,2024-03-30,18,Liverpool WFC,Manchester City WFC,1,4
+3913153,WSL,2024-03-24,17,Everton LFC,Liverpool WFC,0,0
+3913160,WSL,2024-04-14,18,Arsenal WFC,Bristol City WFC,5,0
+3913163,WSL,2024-05-15,18,Tottenham Hotspur Women,Chelsea FCW,0,1
+3913150,WSL,2024-03-17,16,Brighton & Hove Albion WFC,Manchester City WFC,1,4
+3913151,WSL,2024-03-17,16,Manchester United W,Bristol City WFC,2,0
+3913148,WSL,2024-03-17,16,Liverpool WFC,West Ham United LFC,3,1
+3913156,WSL,2024-03-24,17,Aston Villa W,Arsenal WFC,1,3
+3913144,WSL,2024-03-03,15,West Ham United LFC,Manchester United W,1,1
+3913146,WSL,2024-03-03,15,Bristol City WFC,Brighton & Hove Albion WFC,3,7
+3913141,WSL,2024-03-03,15,Aston Villa W,Liverpool WFC,1,4
+3913152,WSL,2024-03-15,16,Chelsea FCW,Arsenal WFC,3,1
+3913130,WSL,2024-02-04,13,West Ham United LFC,Arsenal WFC,2,1
+3913135,WSL,2024-02-17,14,Arsenal WFC,Manchester United W,3,1
+3913138,WSL,2024-02-16,14,Chelsea FCW,Manchester City WFC,0,1
+3913128,WSL,2024-01-28,12,Everton LFC,Leicester City WFC,0,1
+3913125,WSL,2024-01-28,12,Liverpool WFC,Arsenal WFC,0,2
+3913121,WSL,2024-01-21,11,Chelsea FCW,Manchester United W,3,1
+3913122,WSL,2024-01-21,11,Brighton & Hove Albion WFC,Bristol City WFC,3,2
+3913117,WSL,2024-01-20,11,Arsenal WFC,Everton LFC,2,1
+3913112,WSL,2023-12-17,10,Bristol City WFC,Chelsea FCW,0,3
+3913113,WSL,2023-12-16,10,Tottenham Hotspur Women,Arsenal WFC,1,0
+3913110,WSL,2023-12-10,9,West Ham United LFC,Everton LFC,0,1
+3913106,WSL,2023-12-10,9,Brighton & Hove Albion WFC,Leicester City WFC,2,2
+3913105,WSL,2023-12-10,9,Arsenal WFC,Chelsea FCW,4,1
+3913111,WSL,2023-12-17,10,Manchester United W,Liverpool WFC,1,2
+3913103,WSL,2023-11-26,8,Chelsea FCW,Leicester City WFC,5,2
+3913104,WSL,2023-11-26,8,Bristol City WFC,Manchester United W,0,2
+3912594,WSL,2023-10-01,1,Bristol City WFC,Leicester City WFC,2,4
+3913079,WSL,2023-10-22,4,Bristol City WFC,Arsenal WFC,1,2
+3913075,WSL,2023-10-21,4,Aston Villa W,Tottenham Hotspur Women,2,4
+3913077,WSL,2023-10-22,4,Chelsea FCW,Brighton & Hove Albion WFC,4,2
+3913081,WSL,2023-11-04,5,Aston Villa W,Chelsea FCW,0,6
+3913078,WSL,2023-10-22,4,Everton LFC,Manchester United W,0,5
+3913080,WSL,2023-10-22,4,West Ham United LFC,Liverpool WFC,1,1
+3913076,WSL,2023-10-21,4,Leicester City WFC,Manchester City WFC,0,1
+3913071,WSL,2023-10-15,3,Manchester United W,Leicester City WFC,1,1
+3913073,WSL,2023-10-15,3,Arsenal WFC,Aston Villa W,2,1
+3913072,WSL,2023-10-15,3,Manchester City WFC,Bristol City WFC,5,0
+3912593,WSL,2023-10-01,1,West Ham United LFC,Manchester City WFC,0,2
+3913074,WSL,2023-10-15,3,Brighton & Hove Albion WFC,Tottenham Hotspur Women,1,3
+3912602,WSL,2023-10-08,2,Leicester City WFC,Everton LFC,1,0
+3912600,WSL,2023-10-08,2,Manchester City WFC,Chelsea FCW,1,1
+3912601,WSL,2023-10-08,2,Tottenham Hotspur Women,Bristol City WFC,3,1
+3913188,WSL,2024-05-18,22,Tottenham Hotspur Women,West Ham United LFC,3,1
+3913187,WSL,2024-05-18,22,Manchester United W,Chelsea FCW,0,6
+3913184,WSL,2024-05-18,22,Aston Villa W,Manchester City WFC,1,2
+3913183,WSL,2024-05-18,22,Bristol City WFC,Everton LFC,0,4
+3913179,WSL,2024-05-05,21,Liverpool WFC,Manchester United W,1,0
+3913178,WSL,2024-05-05,21,West Ham United LFC,Leicester City WFC,1,1
+3913177,WSL,2024-05-05,21,Manchester City WFC,Arsenal WFC,1,2
+3913176,WSL,2024-04-28,20,Everton LFC,Arsenal WFC,1,1
+3913172,WSL,2024-04-28,20,Tottenham Hotspur Women,Brighton & Hove Albion WFC,1,1
+3913170,WSL,2024-04-20,19,Bristol City WFC,Liverpool WFC,0,1
+3913164,WSL,2024-03-31,18,West Ham United LFC,Brighton & Hove Albion WFC,0,0
+3913159,WSL,2024-03-30,18,Aston Villa W,Leicester City WFC,2,2
+3913158,WSL,2024-03-24,17,West Ham United LFC,Chelsea FCW,0,2
+3913154,WSL,2024-03-24,17,Bristol City WFC,Tottenham Hotspur Women,0,1
+3913149,WSL,2024-03-17,16,Tottenham Hotspur Women,Leicester City WFC,1,0
+3913145,WSL,2024-03-03,15,Leicester City WFC,Chelsea FCW,0,4
+3913143,WSL,2024-03-02,15,Manchester City WFC,Everton LFC,2,1
+3913142,WSL,2024-03-03,15,Arsenal WFC,Tottenham Hotspur Women,1,0
+3913140,WSL,2024-02-18,14,Leicester City WFC,Bristol City WFC,5,2
+3913139,WSL,2024-02-18,14,Tottenham Hotspur Women,Aston Villa W,1,2
+3913136,WSL,2024-02-18,14,Everton LFC,West Ham United LFC,2,0
+3913133,WSL,2024-02-04,13,Manchester United W,Brighton & Hove Albion WFC,2,0
+3913132,WSL,2024-02-04,13,Manchester City WFC,Leicester City WFC,2,0
+3913127,WSL,2024-01-28,12,Manchester United W,Aston Villa W,2,1
+3913126,WSL,2024-01-28,12,Tottenham Hotspur Women,Manchester City WFC,0,2
+3913124,WSL,2024-01-28,12,Bristol City WFC,West Ham United LFC,1,2
+3913123,WSL,2024-01-27,12,Brighton & Hove Albion WFC,Chelsea FCW,0,3
+3913120,WSL,2024-01-21,11,Manchester City WFC,Liverpool WFC,5,1
+3913119,WSL,2024-01-19,11,Leicester City WFC,Aston Villa W,0,1
+3913118,WSL,2024-01-21,11,West Ham United LFC,Tottenham Hotspur Women,3,4
+3913116,WSL,2023-12-17,10,Everton LFC,Manchester City WFC,1,4
+3913114,WSL,2023-12-17,10,Leicester City WFC,West Ham United LFC,1,1
+3913109,WSL,2023-12-10,9,Tottenham Hotspur Women,Manchester United W,0,4
+3913108,WSL,2023-12-10,9,Liverpool WFC,Bristol City WFC,1,1
+3913102,WSL,2023-11-26,8,Manchester City WFC,Tottenham Hotspur Women,7,0
+3913101,WSL,2023-11-26,8,Arsenal WFC,West Ham United LFC,3,0
+3913100,WSL,2023-11-26,8,Aston Villa W,Everton LFC,1,2
+3913099,WSL,2023-11-26,8,Liverpool WFC,Brighton & Hove Albion WFC,4,0
+3913098,WSL,2023-11-19,7,Manchester United W,Manchester City WFC,1,3
+3913097,WSL,2023-11-19,7,Brighton & Hove Albion WFC,Arsenal WFC,0,3
+3913096,WSL,2023-11-19,7,West Ham United LFC,Aston Villa W,2,3
+3913095,WSL,2023-11-19,7,Leicester City WFC,Tottenham Hotspur Women,1,1
+3913094,WSL,2023-11-19,7,Everton LFC,Bristol City WFC,2,2
+3913093,WSL,2023-11-18,7,Chelsea FCW,Liverpool WFC,5,1
+3913092,WSL,2023-11-12,6,Tottenham Hotspur Women,Liverpool WFC,1,1
+3913091,WSL,2023-11-12,6,Leicester City WFC,Arsenal WFC,2,6
+3913090,WSL,2023-11-12,6,Manchester United W,West Ham United LFC,5,0
+3913089,WSL,2023-11-12,6,Everton LFC,Chelsea FCW,0,3
+3913088,WSL,2023-11-12,6,Manchester City WFC,Brighton & Hove Albion WFC,0,1
+3913087,WSL,2023-11-12,6,Bristol City WFC,Aston Villa W,0,2
+3913086,WSL,2023-11-05,5,West Ham United LFC,Bristol City WFC,2,3
+3913085,WSL,2023-11-05,5,Tottenham Hotspur Women,Everton LFC,1,1
+3913084,WSL,2023-11-05,5,Liverpool WFC,Leicester City WFC,2,1
+3913083,WSL,2023-11-05,5,Arsenal WFC,Manchester City WFC,2,1
+3913070,WSL,2023-10-15,3,Liverpool WFC,Everton LFC,0,1
+3912597,WSL,2023-10-01,1,Chelsea FCW,Tottenham Hotspur Women,2,1
+3912592,WSL,2023-10-01,1,Aston Villa W,Manchester United W,1,2
+3912595,WSL,2023-10-01,1,Arsenal WFC,Liverpool WFC,0,1
+3912596,WSL,2023-10-01,1,Everton LFC,Brighton & Hove Albion WFC,1,2
+3912598,WSL,2023-10-06,2,Manchester United W,Arsenal WFC,2,2
+3911779,Frauen Bundesliga,2023-11-04,6,Hoffenheim W,SC Freiburg,2,3
+3912217,Frauen Bundesliga,2024-03-09,15,Hoffenheim W,Nürnberg W,2,0
+3912219,Frauen Bundesliga,2024-03-15,16,Hoffenheim W,VfL Wolfsburg WFC,2,1
+3911780,Frauen Bundesliga,2023-11-06,6,SV Werder Bremen,Eintracht Frankfurt W,0,1
+3911802,Frauen Bundesliga,2023-12-10,9,Eintracht Frankfurt W,Hoffenheim W,3,1
+3911778,Frauen Bundesliga,2023-10-22,5,RB Leipzig W,Bayern München W,0,3
+3912190,Frauen Bundesliga,2024-01-27,11,Bayern München W,Hoffenheim W,1,0
+3911800,Frauen Bundesliga,2023-12-11,9,Bayern München W,TSV Bayer 04 Leverkusen,3,0
+3911768,Frauen Bundesliga,2023-10-14,4,Bayern München W,Eintracht Frankfurt W,0,0
+3912203,Frauen Bundesliga,2024-02-10,13,Köln,Bayern München W,0,5
+3912215,Frauen Bundesliga,2024-03-09,15,Eintracht Frankfurt W,Bayern München W,1,2
+3911795,Frauen Bundesliga,2023-11-19,8,SV Werder Bremen,Bayern München W,0,2
+3911788,Frauen Bundesliga,2023-11-12,7,Bayern München W,Duisburg WFC,2,0
+3911783,Frauen Bundesliga,2023-11-05,6,Bayern München W,VfL Wolfsburg WFC,2,1
+3912218,Frauen Bundesliga,2024-03-16,16,Bayern München W,RB Leipzig W,5,0
+3911760,Frauen Bundesliga,2023-10-02,2,Bayern München W,Köln,2,0
+3912187,Frauen Bundesliga,2023-12-17,10,Nürnberg W,Bayern München W,1,1
+3911764,Frauen Bundesliga,2023-10-08,3,SGS Essen 19/68,Bayern München W,0,2
+3912197,Frauen Bundesliga,2024-02-04,12,TSV Bayer 04 Leverkusen,VfL Wolfsburg WFC,1,1
+3912209,Frauen Bundesliga,2024-02-18,14,TSV Bayer 04 Leverkusen,Hoffenheim W,1,2
+3912201,Frauen Bundesliga,2024-02-10,13,Hoffenheim W,SV Werder Bremen,1,1
+3912207,Frauen Bundesliga,2024-02-17,14,Nürnberg W,VfL Wolfsburg WFC,1,9
+3912254,Frauen Bundesliga,2024-05-20,22,TSV Bayer 04 Leverkusen,SV Werder Bremen,2,3
+3912257,Frauen Bundesliga,2024-05-20,22,Köln,Eintracht Frankfurt W,0,1
+3912259,Frauen Bundesliga,2024-05-20,22,VfL Wolfsburg WFC,SGS Essen 19/68,6,0
+3912255,Frauen Bundesliga,2024-05-20,22,Nürnberg W,Duisburg WFC,2,1
+3912252,Frauen Bundesliga,2024-05-12,21,Bayern München W,Nürnberg W,4,0
+3912246,Frauen Bundesliga,2024-05-05,20,SV Werder Bremen,Duisburg WFC,4,2
+3912244,Frauen Bundesliga,2024-05-05,20,SC Freiburg,SGS Essen 19/68,0,1
+3912238,Frauen Bundesliga,2024-04-21,19,Köln,SC Freiburg,2,0
+3912200,Frauen Bundesliga,2024-02-11,13,VfL Wolfsburg WFC,Eintracht Frankfurt W,3,0
+3912239,Frauen Bundesliga,2024-04-22,19,Bayern München W,SV Werder Bremen,3,0
+3912240,Frauen Bundesliga,2024-04-19,19,RB Leipzig W,TSV Bayer 04 Leverkusen,1,0
+3912232,Frauen Bundesliga,2024-04-15,18,Hoffenheim W,Köln,1,1
+3912233,Frauen Bundesliga,2024-04-14,18,Duisburg WFC,Bayern München W,1,5
+3912242,Frauen Bundesliga,2024-05-06,20,Nürnberg W,RB Leipzig W,0,1
+3912235,Frauen Bundesliga,2024-04-13,18,TSV Bayer 04 Leverkusen,Eintracht Frankfurt W,2,0
+3912249,Frauen Bundesliga,2024-05-11,21,SGS Essen 19/68,Köln,2,1
+3912253,Frauen Bundesliga,2024-05-13,21,Eintracht Frankfurt W,SC Freiburg,4,2
+3912251,Frauen Bundesliga,2024-05-11,21,Duisburg WFC,TSV Bayer 04 Leverkusen,1,3
+3912224,Frauen Bundesliga,2024-03-23,17,VfL Wolfsburg WFC,Bayern München W,0,4
+3912241,Frauen Bundesliga,2024-04-20,19,Eintracht Frankfurt W,Nürnberg W,4,1
+3912234,Frauen Bundesliga,2024-04-12,18,SV Werder Bremen,RB Leipzig W,1,1
+3912231,Frauen Bundesliga,2024-04-13,18,SC Freiburg,VfL Wolfsburg WFC,1,4
+3912222,Frauen Bundesliga,2024-03-17,16,Nürnberg W,SC Freiburg,0,0
+3912223,Frauen Bundesliga,2024-03-17,16,Duisburg WFC,Eintracht Frankfurt W,1,2
+3912214,Frauen Bundesliga,2024-03-08,15,SGS Essen 19/68,Duisburg WFC,4,1
+3912210,Frauen Bundesliga,2024-02-16,14,RB Leipzig W,Eintracht Frankfurt W,2,1
+3912221,Frauen Bundesliga,2024-03-16,16,SV Werder Bremen,SGS Essen 19/68,0,0
+3912189,Frauen Bundesliga,2024-01-26,11,SV Werder Bremen,TSV Bayer 04 Leverkusen,2,1
+3912196,Frauen Bundesliga,2024-02-05,12,Bayern München W,SC Freiburg,4,0
+3912199,Frauen Bundesliga,2024-02-03,12,SV Werder Bremen,Nürnberg W,4,0
+3911785,Frauen Bundesliga,2023-11-12,7,VfL Wolfsburg WFC,SC Freiburg,4,0
+3911801,Frauen Bundesliga,2023-12-08,9,RB Leipzig W,Nürnberg W,0,0
+3912186,Frauen Bundesliga,2023-12-18,10,VfL Wolfsburg WFC,SV Werder Bremen,1,0
+3912184,Frauen Bundesliga,2023-12-16,10,SC Freiburg,Eintracht Frankfurt W,0,4
+3912185,Frauen Bundesliga,2023-12-16,10,Köln,SGS Essen 19/68,0,1
+3911798,Frauen Bundesliga,2023-12-09,9,Köln,VfL Wolfsburg WFC,1,4
+3911787,Frauen Bundesliga,2023-11-11,7,SGS Essen 19/68,Nürnberg W,5,0
+3911784,Frauen Bundesliga,2023-11-05,6,Nürnberg W,Köln,1,3
+3911786,Frauen Bundesliga,2023-11-10,7,Eintracht Frankfurt W,TSV Bayer 04 Leverkusen,2,2
+3911796,Frauen Bundesliga,2023-11-18,8,Nürnberg W,Eintracht Frankfurt W,0,2
+3911789,Frauen Bundesliga,2023-11-13,7,Köln,Hoffenheim W,1,2
+3911769,Frauen Bundesliga,2023-10-14,4,SV Werder Bremen,Köln,3,0
+3911774,Frauen Bundesliga,2023-10-21,5,SGS Essen 19/68,SV Werder Bremen,1,1
+3911777,Frauen Bundesliga,2023-10-22,5,Eintracht Frankfurt W,Duisburg WFC,5,1
+3911776,Frauen Bundesliga,2023-10-22,5,VfL Wolfsburg WFC,Hoffenheim W,2,2
+3911775,Frauen Bundesliga,2023-10-21,5,SC Freiburg,Nürnberg W,0,2
+3911767,Frauen Bundesliga,2023-10-13,4,Nürnberg W,Hoffenheim W,0,3
+3911765,Frauen Bundesliga,2023-10-08,3,SC Freiburg,SV Werder Bremen,2,1
+3913800,Frauen Bundesliga,2023-12-15,10,TSV Bayer 04 Leverkusen,Duisburg WFC,4,1
+3911762,Frauen Bundesliga,2023-10-07,3,Eintracht Frankfurt W,RB Leipzig W,3,1
+3911763,Frauen Bundesliga,2023-10-07,3,Köln,Duisburg WFC,4,1
+3911758,Frauen Bundesliga,2023-10-01,2,Duisburg WFC,SC Freiburg,2,2
+3911757,Frauen Bundesliga,2023-09-30,2,SV Werder Bremen,Hoffenheim W,1,3
+3911759,Frauen Bundesliga,2023-10-01,2,Eintracht Frankfurt W,VfL Wolfsburg WFC,2,4
+3912258,Frauen Bundesliga,2024-05-20,22,SC Freiburg,RB Leipzig W,2,1
+3912256,Frauen Bundesliga,2024-05-20,22,Hoffenheim W,Bayern München W,1,4
+3912250,Frauen Bundesliga,2024-05-12,21,SV Werder Bremen,VfL Wolfsburg WFC,0,3
+3912248,Frauen Bundesliga,2024-05-10,21,RB Leipzig W,Hoffenheim W,3,0
+3912247,Frauen Bundesliga,2024-05-04,20,TSV Bayer 04 Leverkusen,Bayern München W,1,2
+3912245,Frauen Bundesliga,2024-05-03,20,VfL Wolfsburg WFC,Köln,5,1
+3912243,Frauen Bundesliga,2024-05-04,20,Hoffenheim W,Eintracht Frankfurt W,1,3
+3912237,Frauen Bundesliga,2024-04-21,19,Duisburg WFC,VfL Wolfsburg WFC,1,4
+3912236,Frauen Bundesliga,2024-04-20,19,SGS Essen 19/68,Hoffenheim W,2,1
+3912230,Frauen Bundesliga,2024-04-14,18,Nürnberg W,SGS Essen 19/68,0,4
+3912229,Frauen Bundesliga,2024-03-25,17,Eintracht Frankfurt W,SV Werder Bremen,2,0
+3912228,Frauen Bundesliga,2024-03-24,17,RB Leipzig W,Duisburg WFC,3,0
+3912227,Frauen Bundesliga,2024-03-22,17,SC Freiburg,Hoffenheim W,2,4
+3912226,Frauen Bundesliga,2024-03-23,17,Köln,Nürnberg W,3,4
+3912225,Frauen Bundesliga,2024-03-24,17,SGS Essen 19/68,TSV Bayer 04 Leverkusen,0,0
+3912220,Frauen Bundesliga,2024-03-18,16,TSV Bayer 04 Leverkusen,Köln,2,0
+3912216,Frauen Bundesliga,2024-03-11,15,VfL Wolfsburg WFC,RB Leipzig W,4,0
+3912213,Frauen Bundesliga,2024-03-10,15,Köln,SV Werder Bremen,2,1
+3912212,Frauen Bundesliga,2024-03-10,15,SC Freiburg,TSV Bayer 04 Leverkusen,0,0
+3912211,Frauen Bundesliga,2024-02-18,14,Bayern München W,SGS Essen 19/68,2,0
+3912208,Frauen Bundesliga,2024-02-18,14,Duisburg WFC,Köln,0,0
+3912206,Frauen Bundesliga,2024-02-17,14,SV Werder Bremen,SC Freiburg,0,3
+3912205,Frauen Bundesliga,2024-02-12,13,Nürnberg W,TSV Bayer 04 Leverkusen,1,2
+3912204,Frauen Bundesliga,2024-02-09,13,SGS Essen 19/68,RB Leipzig W,4,4
+3912202,Frauen Bundesliga,2024-02-11,13,SC Freiburg,Duisburg WFC,1,1
+3912198,Frauen Bundesliga,2024-02-02,12,Duisburg WFC,Hoffenheim W,0,2
+3912195,Frauen Bundesliga,2024-02-03,12,RB Leipzig W,Köln,2,1
+3912194,Frauen Bundesliga,2024-02-04,12,Eintracht Frankfurt W,SGS Essen 19/68,1,0
+3912193,Frauen Bundesliga,2024-01-28,11,Eintracht Frankfurt W,Köln,1,0
+3912192,Frauen Bundesliga,2024-01-29,11,SGS Essen 19/68,VfL Wolfsburg WFC,1,3
+3912191,Frauen Bundesliga,2024-01-27,11,RB Leipzig W,SC Freiburg,0,2
+3912188,Frauen Bundesliga,2024-01-28,11,Duisburg WFC,Nürnberg W,1,2
+3912183,Frauen Bundesliga,2023-12-17,10,Hoffenheim W,RB Leipzig W,2,1
+3911799,Frauen Bundesliga,2023-12-10,9,Duisburg WFC,SV Werder Bremen,0,2
+3911797,Frauen Bundesliga,2023-12-09,9,SGS Essen 19/68,SC Freiburg,0,1
+3911794,Frauen Bundesliga,2023-11-19,8,TSV Bayer 04 Leverkusen,RB Leipzig W,1,1
+3911793,Frauen Bundesliga,2023-11-17,8,Hoffenheim W,SGS Essen 19/68,0,3
+3911792,Frauen Bundesliga,2023-11-20,8,SC Freiburg,Köln,3,3
+3911791,Frauen Bundesliga,2023-11-18,8,VfL Wolfsburg WFC,Duisburg WFC,2,0
+3911790,Frauen Bundesliga,2023-11-11,7,RB Leipzig W,SV Werder Bremen,0,5
+3911782,Frauen Bundesliga,2023-11-04,6,TSV Bayer 04 Leverkusen,SGS Essen 19/68,0,0
+3911781,Frauen Bundesliga,2023-11-03,6,Duisburg WFC,RB Leipzig W,1,1
+3911773,Frauen Bundesliga,2023-10-20,5,Köln,TSV Bayer 04 Leverkusen,0,1
+3911772,Frauen Bundesliga,2023-10-16,4,Duisburg WFC,SGS Essen 19/68,0,1
+3911771,Frauen Bundesliga,2023-10-15,4,TSV Bayer 04 Leverkusen,SC Freiburg,3,0
+3911770,Frauen Bundesliga,2023-10-15,4,RB Leipzig W,VfL Wolfsburg WFC,0,2
+3911766,Frauen Bundesliga,2023-10-09,3,Hoffenheim W,TSV Bayer 04 Leverkusen,2,2
+3911761,Frauen Bundesliga,2023-10-06,3,VfL Wolfsburg WFC,Nürnberg W,1,0
+3911756,Frauen Bundesliga,2023-09-30,2,TSV Bayer 04 Leverkusen,Nürnberg W,6,0
+3911755,Frauen Bundesliga,2023-09-29,2,RB Leipzig W,SGS Essen 19/68,3,2
+3910735,Frauen Bundesliga,2023-09-17,1,SGS Essen 19/68,Eintracht Frankfurt W,2,0
+3910734,Frauen Bundesliga,2023-09-17,1,VfL Wolfsburg WFC,TSV Bayer 04 Leverkusen,3,0
+3910733,Frauen Bundesliga,2023-09-17,1,Köln,RB Leipzig W,2,1
+3910732,Frauen Bundesliga,2023-09-16,1,Nürnberg W,SV Werder Bremen,1,5
+3910731,Frauen Bundesliga,2023-09-16,1,Hoffenheim W,Duisburg WFC,9,0
+3910730,Frauen Bundesliga,2023-09-15,1,SC Freiburg,Bayern München W,2,2
+3911491,Liga F,2024-02-18,18,Real Madrid CF W,Costa Adeje Tenerife,2,1
+3910995,Liga F,2023-12-09,11,Real Madrid CF W,Sevilla FC,1,3
+3911510,Liga F,2024-03-16,20,Real Madrid CF W,SD Eibar,1,0
+3911515,Liga F,2024-03-24,21,Real Madrid CF W,Barcelona WFC,0,3
+3911296,Liga F,2024-01-07,13,Real Madrid CF W,Madrid CFF,2,1
+3911637,Liga F,2024-06-09,29,Real Madrid CF W,Athletic Club Bilbao,1,0
+3911010,Liga F,2023-12-16,12,Atletico Madrid W,Real Sociedad de Fútbol,1,1
+3910954,Liga F,2023-10-15,5,Atletico Madrid W,Barcelona WFC,0,1
+3910942,Liga F,2023-10-07,4,Atletico Madrid W,Sevilla FC,2,1
+3910968,Liga F,2023-11-05,7,Costa Adeje Tenerife,Atletico Madrid W,2,1
+3910934,Liga F,2023-09-30,3,Levante UD Femenino,Atletico Madrid W,1,1
+3910996,Liga F,2023-12-10,11,Real Betis Balompié,Atletico Madrid W,0,2
+3910984,Liga F,2023-11-19,9,Madrid CFF,Atletico Madrid W,1,4
+3911308,Liga F,2024-01-27,15,Athletic Club Bilbao,Real Madrid CF W,0,1
+3911294,Liga F,2024-01-07,13,Valencia CF,Atletico Madrid W,1,6
+3911309,Liga F,2024-01-27,15,Valencia CF,Costa Adeje Tenerife,1,1
+3911633,Liga F,2024-06-09,29,Villarreal,CD Sporting de Huelva,2,0
+3910970,Liga F,2023-11-04,7,Valencia CF,CD Sporting de Huelva,2,0
+3911641,Liga F,2024-06-14,30,CD Sporting de Huelva,Real Madrid CF W,1,4
+3911644,Liga F,2024-06-15,30,SD Eibar,Granada W,0,2
+3911642,Liga F,2024-06-15,30,Real Sociedad de Fútbol,FC Levante Badalona,2,2
+3911647,Liga F,2024-06-15,30,Atletico Madrid W,Villarreal,1,0
+3911645,Liga F,2024-06-15,30,Real Betis Balompié,Costa Adeje Tenerife,1,0
+3911630,Liga F,2024-05-25,28,CD Sporting de Huelva,Granada W,2,1
+3911560,Liga F,2024-05-12,27,Madrid CFF,Valencia CF,6,1
+3911627,Liga F,2024-05-25,28,Levante UD Femenino,Villarreal,2,1
+3911626,Liga F,2024-05-24,28,Athletic Club Bilbao,Costa Adeje Tenerife,4,1
+3911566,Liga F,2024-05-10,27,Villarreal,SD Eibar,1,1
+3911551,Liga F,2024-05-04,26,Athletic Club Bilbao,Villarreal,1,0
+3911552,Liga F,2024-05-04,26,Atletico Madrid W,Costa Adeje Tenerife,1,0
+3911549,Liga F,2024-04-27,25,Villarreal,Granada W,1,2
+3911550,Liga F,2024-04-27,25,Sevilla FC,Levante UD Femenino,1,3
+3911559,Liga F,2024-05-11,27,FC Levante Badalona,Levante UD Femenino,1,1
+3911564,Liga F,2024-05-11,27,Granada W,Real Betis Balompié,2,3
+3911562,Liga F,2024-05-10,27,Barcelona WFC,Athletic Club Bilbao,7,0
+3911535,Liga F,2024-04-21,24,Atletico Madrid W,Real Betis Balompié,5,1
+3911538,Liga F,2024-04-20,24,Madrid CFF,Athletic Club Bilbao,2,1
+3911536,Liga F,2024-04-20,24,Granada W,Costa Adeje Tenerife,2,1
+3911537,Liga F,2024-04-20,24,Levante UD Femenino,Real Madrid CF W,2,4
+3911530,Liga F,2024-04-13,23,SD Eibar,Sevilla FC,3,0
+3911532,Liga F,2024-04-14,23,Valencia CF,Levante UD Femenino,1,1
+3911529,Liga F,2024-04-13,23,Real Sociedad de Fútbol,CD Sporting de Huelva,1,1
+3911528,Liga F,2024-04-13,23,Barcelona WFC,Villarreal,5,1
+3911556,Liga F,2024-05-04,26,Granada W,Barcelona WFC,1,4
+3911545,Liga F,2024-04-27,25,Costa Adeje Tenerife,Valencia CF,1,0
+3911508,Liga F,2024-03-16,20,CD Sporting de Huelva,Levante UD Femenino,1,1
+3911521,Liga F,2024-03-31,22,Granada W,Madrid CFF,3,0
+3911523,Liga F,2024-03-31,22,CD Sporting de Huelva,Costa Adeje Tenerife,1,2
+3911513,Liga F,2024-03-23,21,Real Sociedad de Fútbol,Athletic Club Bilbao,0,1
+3911506,Liga F,2024-03-17,20,Granada W,Atletico Madrid W,0,1
+3911503,Liga F,2024-03-17,20,Athletic Club Bilbao,Valencia CF,2,0
+3911504,Liga F,2024-03-17,20,Barcelona WFC,Costa Adeje Tenerife,7,0
+3911518,Liga F,2024-03-23,21,Costa Adeje Tenerife,Sevilla FC,5,0
+3911495,Liga F,2024-03-09,19,Madrid CFF,SD Eibar,1,2
+3911496,Liga F,2024-03-10,19,Atletico Madrid W,CD Sporting de Huelva,1,0
+3911498,Liga F,2024-03-10,19,Real Sociedad de Fútbol,Barcelona WFC,1,7
+3911525,Liga F,2024-03-30,22,Villarreal,Real Madrid CF W,0,2
+3911526,Liga F,2024-03-30,22,Sevilla FC,Real Sociedad de Fútbol,4,2
+3911517,Liga F,2024-03-23,21,Levante UD Femenino,Real Betis Balompié,7,0
+3911520,Liga F,2024-03-30,22,Atletico Madrid W,Valencia CF,1,0
+3911499,Liga F,2024-03-09,19,FC Levante Badalona,Granada W,1,2
+3911501,Liga F,2024-03-09,19,Sevilla FC,Real Madrid CF W,0,1
+3911472,Liga F,2024-02-04,16,Barcelona WFC,CD Sporting de Huelva,4,0
+3911475,Liga F,2024-02-03,16,Villarreal,Real Betis Balompié,2,1
+3911477,Liga F,2024-02-03,16,Granada W,Athletic Club Bilbao,2,0
+3911314,Liga F,2024-01-27,15,CD Sporting de Huelva,Villarreal,0,1
+3911312,Liga F,2024-01-28,15,Levante UD Femenino,Granada W,2,2
+3911311,Liga F,2024-01-28,15,Real Sociedad de Fútbol,Madrid CFF,1,1
+3911300,Liga F,2024-01-20,14,FC Levante Badalona,Real Sociedad de Fútbol,0,2
+3911305,Liga F,2024-01-21,14,Granada W,CD Sporting de Huelva,0,1
+3911474,Liga F,2024-02-03,16,Real Madrid CF W,Valencia CF,7,1
+3910937,Liga F,2023-10-01,3,Costa Adeje Tenerife,Real Madrid CF W,1,2
+3910952,Liga F,2023-10-15,5,Costa Adeje Tenerife,Real Betis Balompié,1,0
+3911302,Liga F,2024-01-21,14,Costa Adeje Tenerife,Athletic Club Bilbao,1,1
+3911297,Liga F,2024-01-07,13,CD Sporting de Huelva,Sevilla FC,1,3
+3911313,Liga F,2024-01-27,15,FC Levante Badalona,Atletico Madrid W,1,1
+3911301,Liga F,2024-01-20,14,Madrid CFF,Real Betis Balompié,3,1
+3911306,Liga F,2024-02-14,14,Barcelona WFC,Levante UD Femenino,1,1
+3911307,Liga F,2024-02-14,14,Atletico Madrid W,Real Madrid CF W,1,1
+3911303,Liga F,2024-01-20,14,Sevilla FC,Villarreal,3,1
+3911293,Liga F,2024-01-06,13,Barcelona WFC,FC Levante Badalona,9,1
+3911003,Liga F,2023-12-17,12,FC Levante Badalona,Real Madrid CF W,0,2
+3911004,Liga F,2023-12-17,12,Granada W,Valencia CF,0,1
+3911002,Liga F,2023-12-10,11,Athletic Club Bilbao,Levante UD Femenino,1,0
+3910998,Liga F,2023-12-09,11,Costa Adeje Tenerife,Granada W,2,0
+3911009,Liga F,2023-12-16,12,SD Eibar,Real Betis Balompié,3,2
+3911006,Liga F,2023-12-16,12,Madrid CFF,Villarreal,2,0
+3911000,Liga F,2023-12-09,11,CD Sporting de Huelva,Real Sociedad de Fútbol,1,2
+3910987,Liga F,2023-11-26,10,Atletico Madrid W,Granada W,2,0
+3910991,Liga F,2023-11-25,10,Sevilla FC,Real Betis Balompié,6,0
+3910980,Liga F,2023-11-19,9,Real Betis Balompié,FC Levante Badalona,1,0
+3910971,Liga F,2023-11-11,8,Atletico Madrid W,SD Eibar,3,0
+3910956,Liga F,2023-10-22,6,FC Levante Badalona,Sevilla FC,1,2
+3910958,Liga F,2023-10-21,6,Real Betis Balompié,Valencia CF,2,2
+3910974,Liga F,2023-11-10,8,Real Madrid CF W,Real Sociedad de Fútbol,7,1
+3910967,Liga F,2023-11-04,7,Real Betis Balompié,Athletic Club Bilbao,1,0
+3910965,Liga F,2023-11-04,7,Real Sociedad de Fútbol,Villarreal,1,0
+3910977,Liga F,2023-11-11,8,CD Sporting de Huelva,Real Betis Balompié,1,3
+3910981,Liga F,2023-11-18,9,Real Sociedad de Fútbol,Sevilla FC,1,2
+3910985,Liga F,2023-11-18,9,Costa Adeje Tenerife,Levante UD Femenino,0,1
+3910983,Liga F,2023-11-18,9,Valencia CF,Athletic Club Bilbao,1,2
+3910966,Liga F,2023-11-04,7,SD Eibar,Real Madrid CF W,0,1
+3910982,Liga F,2023-11-18,9,SD Eibar,CD Sporting de Huelva,1,0
+3910953,Liga F,2023-10-14,5,Real Sociedad de Fútbol,SD Eibar,3,1
+3910955,Liga F,2023-10-21,6,Barcelona WFC,Granada W,6,1
+3911648,Liga F,2024-06-16,30,Athletic Club Bilbao,Sevilla FC,2,1
+3911646,Liga F,2024-06-15,30,Levante UD Femenino,Madrid CFF,3,0
+3911643,Liga F,2024-06-16,30,Valencia CF,Barcelona WFC,0,3
+3911640,Liga F,2024-06-09,29,FC Levante Badalona,Valencia CF,3,0
+3911639,Liga F,2024-06-09,29,Granada W,Levante UD Femenino,0,3
+3911638,Liga F,2024-06-09,29,Madrid CFF,Real Sociedad de Fútbol,2,3
+3911636,Liga F,2024-06-09,29,Barcelona WFC,Real Betis Balompié,5,1
+3911635,Liga F,2024-06-09,29,Costa Adeje Tenerife,SD Eibar,1,1
+3911634,Liga F,2024-06-09,29,Sevilla FC,Atletico Madrid W,1,1
+3911632,Liga F,2024-05-26,28,Valencia CF,Sevilla FC,3,1
+3911631,Liga F,2024-05-26,28,Real Sociedad de Fútbol,Real Madrid CF W,1,2
+3911629,Liga F,2024-05-14,28,SD Eibar,Barcelona WFC,0,4
+3911628,Liga F,2024-05-26,28,Real Betis Balompié,Madrid CFF,0,0
+3911625,Liga F,2024-05-24,28,Atletico Madrid W,FC Levante Badalona,3,1
+3911565,Liga F,2024-05-12,27,Costa Adeje Tenerife,Real Sociedad de Fútbol,0,1
+3911563,Liga F,2024-05-11,27,Real Madrid CF W,Atletico Madrid W,2,3
+3911561,Liga F,2024-05-12,27,Sevilla FC,CD Sporting de Huelva,2,0
+3911558,Liga F,2024-05-04,26,Valencia CF,SD Eibar,0,2
+3911557,Liga F,2024-05-05,26,CD Sporting de Huelva,FC Levante Badalona,1,2
+3911555,Liga F,2024-05-05,26,Real Betis Balompié,Sevilla FC,1,1
+3911554,Liga F,2024-05-05,26,Madrid CFF,Real Madrid CF W,0,1
+3911553,Liga F,2024-05-05,26,Levante UD Femenino,Real Sociedad de Fútbol,4,3
+3911548,Liga F,2024-04-28,25,Real Madrid CF W,FC Levante Badalona,2,1
+3911547,Liga F,2024-04-28,25,Real Sociedad de Fútbol,Atletico Madrid W,0,2
+3911546,Liga F,2024-04-28,25,SD Eibar,Athletic Club Bilbao,0,2
+3911544,Liga F,2024-04-27,25,Real Betis Balompié,CD Sporting de Huelva,3,1
+3911543,Liga F,2024-05-01,25,Barcelona WFC,Madrid CFF,8,0
+3911542,Liga F,2024-04-21,24,Villarreal,Sevilla FC,1,2
+3911541,Liga F,2024-04-20,24,CD Sporting de Huelva,SD Eibar,0,1
+3911540,Liga F,2024-04-21,24,Valencia CF,Real Sociedad de Fútbol,3,0
+3911539,Liga F,2024-04-24,24,FC Levante Badalona,Barcelona WFC,2,4
+3911534,Liga F,2024-04-13,23,FC Levante Badalona,Real Betis Balompié,1,2
+3911533,Liga F,2024-04-14,23,Costa Adeje Tenerife,Madrid CFF,2,2
+3911531,Liga F,2024-04-14,23,Real Madrid CF W,Granada W,5,0
+3911527,Liga F,2024-04-14,23,Athletic Club Bilbao,Atletico Madrid W,1,0
+3911524,Liga F,2024-03-31,22,Levante UD Femenino,Barcelona WFC,0,5
+3911522,Liga F,2024-03-30,22,Real Betis Balompié,SD Eibar,0,0
+3911519,Liga F,2024-03-31,22,Athletic Club Bilbao,FC Levante Badalona,4,1
+3911516,Liga F,2024-03-23,21,Valencia CF,Granada W,4,1
+3911514,Liga F,2024-03-24,21,SD Eibar,Atletico Madrid W,1,1
+3911512,Liga F,2024-03-24,21,Madrid CFF,CD Sporting de Huelva,2,1
+3911511,Liga F,2024-03-24,21,FC Levante Badalona,Villarreal,1,1
+3911509,Liga F,2024-03-16,20,Villarreal,Madrid CFF,1,4
+3911507,Liga F,2024-03-16,20,Sevilla FC,FC Levante Badalona,3,0
+3911505,Liga F,2024-03-17,20,Real Betis Balompié,Real Sociedad de Fútbol,0,0
+3911502,Liga F,2024-03-09,19,Costa Adeje Tenerife,Villarreal,1,1
+3911500,Liga F,2024-03-10,19,Valencia CF,Real Betis Balompié,2,2
+3911497,Liga F,2024-03-10,19,Levante UD Femenino,Athletic Club Bilbao,1,2
+3911494,Liga F,2024-02-17,18,CD Sporting de Huelva,Valencia CF,1,3
+3911493,Liga F,2024-02-17,18,Villarreal,Real Sociedad de Fútbol,1,1
+3911492,Liga F,2024-02-18,18,SD Eibar,Levante UD Femenino,0,0
+3911490,Liga F,2024-02-17,18,Granada W,Sevilla FC,2,2
+3911489,Liga F,2024-02-18,18,Barcelona WFC,Atletico Madrid W,2,0
+3911488,Liga F,2024-02-17,18,Athletic Club Bilbao,Real Betis Balompié,1,0
+3911487,Liga F,2024-02-18,18,Madrid CFF,FC Levante Badalona,2,1
+3911486,Liga F,2024-02-11,17,Atletico Madrid W,Madrid CFF,1,1
+3911485,Liga F,2024-02-11,17,Levante UD Femenino,Costa Adeje Tenerife,1,0
+3911484,Liga F,2024-02-11,17,Real Betis Balompié,Real Madrid CF W,1,4
+3911483,Liga F,2024-02-11,17,CD Sporting de Huelva,Athletic Club Bilbao,1,2
+3911482,Liga F,2024-02-10,17,Sevilla FC,Barcelona WFC,0,3
+3911481,Liga F,2024-02-11,17,Real Sociedad de Fútbol,Granada W,1,1
+3911480,Liga F,2024-02-10,17,FC Levante Badalona,SD Eibar,1,1
+3911479,Liga F,2024-02-10,17,Valencia CF,Villarreal,0,1
+3911478,Liga F,2024-02-04,16,Costa Adeje Tenerife,FC Levante Badalona,1,1
+3911476,Liga F,2024-02-04,16,SD Eibar,Real Sociedad de Fútbol,0,2
+3911473,Liga F,2024-02-03,16,Madrid CFF,Sevilla FC,3,3
+3911471,Liga F,2024-02-03,16,Atletico Madrid W,Levante UD Femenino,0,1
+3911315,Liga F,2024-01-28,15,Real Betis Balompié,Barcelona WFC,0,6
+3911310,Liga F,2024-01-28,15,Sevilla FC,SD Eibar,3,0
+3911304,Liga F,2024-01-21,14,SD Eibar,Valencia CF,1,0
+3911299,Liga F,2024-01-07,13,Real Betis Balompié,Granada W,2,3
+3911298,Liga F,2024-01-07,13,Athletic Club Bilbao,SD Eibar,2,0
+3911295,Liga F,2024-01-06,13,Villarreal,Levante UD Femenino,0,5
+3911292,Liga F,2024-01-07,13,Real Sociedad de Fútbol,Costa Adeje Tenerife,3,3
+3911008,Liga F,2023-12-17,12,Costa Adeje Tenerife,Barcelona WFC,0,2
+3911007,Liga F,2023-12-17,12,Sevilla FC,Athletic Club Bilbao,1,1
+3911005,Liga F,2023-12-16,12,Levante UD Femenino,CD Sporting de Huelva,2,0
+3911001,Liga F,2023-12-09,11,Barcelona WFC,SD Eibar,5,0
+3910999,Liga F,2023-12-10,11,Valencia CF,Madrid CFF,3,4
+3910997,Liga F,2023-12-10,11,Villarreal,FC Levante Badalona,2,2
+3910994,Liga F,2023-11-26,10,Athletic Club Bilbao,Barcelona WFC,0,4
+3910993,Liga F,2023-11-25,10,Villarreal,Costa Adeje Tenerife,1,1
+3910992,Liga F,2023-11-25,10,Levante UD Femenino,SD Eibar,3,0
+3910990,Liga F,2023-11-25,10,Real Sociedad de Fútbol,Valencia CF,2,0
+3910989,Liga F,2023-11-26,10,Real Madrid CF W,CD Sporting de Huelva,5,2
+3910988,Liga F,2023-11-26,10,FC Levante Badalona,Madrid CFF,3,4
+3910986,Liga F,2023-11-19,9,Barcelona WFC,Real Madrid CF W,5,0
+3910979,Liga F,2023-11-19,9,Granada W,Villarreal,1,2
+3910978,Liga F,2023-11-12,8,Athletic Club Bilbao,Madrid CFF,1,2
+3910976,Liga F,2023-11-12,8,Sevilla FC,Granada W,1,0
+3910975,Liga F,2023-11-11,8,Villarreal,Barcelona WFC,0,6
+3910973,Liga F,2023-11-12,8,Levante UD Femenino,Valencia CF,3,1
+3910972,Liga F,2023-11-12,8,FC Levante Badalona,Costa Adeje Tenerife,3,1
+3910969,Liga F,2023-11-05,7,Madrid CFF,Levante UD Femenino,0,1
+3910964,Liga F,2023-11-05,7,Barcelona WFC,Sevilla FC,8,0
+3910963,Liga F,2023-11-05,7,Granada W,FC Levante Badalona,0,1
+3910962,Liga F,2023-10-22,6,Athletic Club Bilbao,Real Sociedad de Fútbol,2,1
+3910961,Liga F,2023-10-22,6,Real Madrid CF W,Levante UD Femenino,1,2
+3910960,Liga F,2023-10-21,6,CD Sporting de Huelva,Atletico Madrid W,0,2
+3910959,Liga F,2023-10-21,6,SD Eibar,Villarreal,0,0
+3910957,Liga F,2023-10-22,6,Madrid CFF,Costa Adeje Tenerife,3,2
+3910951,Liga F,2023-10-15,5,CD Sporting de Huelva,Madrid CFF,1,3
+3910950,Liga F,2023-10-15,5,Levante UD Femenino,FC Levante Badalona,1,1
+3910949,Liga F,2023-10-14,5,Villarreal,Athletic Club Bilbao,3,0
+3910948,Liga F,2023-10-14,5,Sevilla FC,Valencia CF,1,2
+3910947,Liga F,2023-10-14,5,Granada W,Real Madrid CF W,2,5
+3910946,Liga F,2023-10-09,4,Valencia CF,FC Levante Badalona,1,1
+3910945,Liga F,2023-10-07,4,Real Madrid CF W,Villarreal,1,0
+3910944,Liga F,2023-10-08,4,Real Betis Balompié,Levante UD Femenino,0,4
+3910943,Liga F,2023-10-08,4,Barcelona WFC,Real Sociedad de Fútbol,3,0
+3910941,Liga F,2023-10-09,4,Athletic Club Bilbao,CD Sporting de Huelva,3,0
+3910940,Liga F,2023-10-08,4,SD Eibar,Costa Adeje Tenerife,0,1
+3910939,Liga F,2023-10-08,4,Madrid CFF,Granada W,1,0
+3910938,Liga F,2023-10-01,3,FC Levante Badalona,Athletic Club Bilbao,2,1
+3910936,Liga F,2023-10-01,3,CD Sporting de Huelva,Barcelona WFC,1,2
+3910935,Liga F,2023-10-01,3,Real Sociedad de Fútbol,Real Betis Balompié,2,1
+3910933,Liga F,2023-09-30,3,Sevilla FC,Madrid CFF,1,5
+3910932,Liga F,2023-09-30,3,Granada W,SD Eibar,1,2
+3910931,Liga F,2023-09-30,3,Villarreal,Valencia CF,1,2
+3910751,Liga F,2023-09-17,2,Levante UD Femenino,Sevilla FC,2,0
+3910750,Liga F,2023-09-17,2,Granada W,Real Sociedad de Fútbol,2,1
+3910749,Liga F,2023-09-17,2,Costa Adeje Tenerife,CD Sporting de Huelva,2,0
+3910748,Liga F,2023-09-16,2,Madrid CFF,Barcelona WFC,0,2
+3910747,Liga F,2023-09-16,2,SD Eibar,FC Levante Badalona,1,2
+3910746,Liga F,2023-09-16,2,Atletico Madrid W,Athletic Club Bilbao,3,0
+3910745,Liga F,2023-09-16,2,Real Betis Balompié,Villarreal,1,0
+3910744,Liga F,2023-09-15,2,Valencia CF,Real Madrid CF W,0,2
+3910743,Liga F,2023-10-03,1,Villarreal,Atletico Madrid W,1,3
+3910742,Liga F,2023-10-05,1,FC Levante Badalona,CD Sporting de Huelva,1,1
+3910741,Liga F,2023-10-04,1,Real Sociedad de Fútbol,Levante UD Femenino,1,1
+3910740,Liga F,2023-10-05,1,Barcelona WFC,Valencia CF,6,0
+3910739,Liga F,2023-10-04,1,Athletic Club Bilbao,Granada W,1,0
+3910738,Liga F,2023-10-04,1,SD Eibar,Madrid CFF,1,6
+3910737,Liga F,2023-10-04,1,Real Madrid CF W,Real Betis Balompié,5,1
+3910736,Liga F,2023-10-04,1,Sevilla FC,Costa Adeje Tenerife,5,1
